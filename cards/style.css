@@ -1,0 +1,214 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: #28323b;
+    font-family: fontregular, 'Droid Sans', Arial, Verdana, sans-serif;
+}
+
+.orange{
+    color: orange;
+    padding-left: 10px;
+}
+
+.image{
+    color: white;
+    font-weight: 700;
+    font-size: xx-large;
+    display: flex;
+    padding: 7px;
+}
+
+.header-content{
+    margin: 0px 16px 0px 16px;
+    padding-bottom: 10px;
+    height: 62px;
+    width: 100%-16px;
+}
+
+.main{
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.other-links{
+    display: flex;
+    height: 100%;
+    align-items: center;
+    gap: 12px;
+    color: white;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+}
+
+.college-name{
+    color: white;
+    font-size: 32px;
+    margin: 10px 0px 0px;
+    
+}
+
+.college-add{
+    font-size: 14px;
+    color: white;
+    margin: 10px 0px 0px;
+    padding-bottom: 15px;
+}
+
+.college-sub-container{
+    height: 100px;
+    padding: 10px;
+    background-color: #242d35;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.college-sub-title{
+    background-color: #242d35;
+    color: white;
+    width: 117px;
+    padding: 0px 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sub-logo i{
+    padding: 10px;
+    background-color: #242d35;
+}
+
+.sub-title{
+    font-size: 1.3rem;
+    background-color: #242d35;
+}
+
+.white-back{
+    background-color: white;
+}
+
+th, td {
+    border: 1px solid black;
+    text-align: left;
+    font-size: 1.1rem;
+    padding: 5.6px;
+    width: 800px;
+    background-color: white;
+}
+
+.overview-container{
+    padding: 30px;
+    background-color: white;
+}
+
+.overview-title{
+    padding: 10px;
+    font-size: 1.2rem;
+    background-color: white;
+}
+
+.table-bordered th, .table-bordered td {
+    border: 1px solid black;
+    text-align: left;
+    font-size: 1.1rem;
+    padding: 5.6px;
+    width: 800px;
+    background-color: white;
+    height: 54px;
+    padding-left: 40px;
+}
+
+.table-bordered td i{
+    background-color: white;
+    color: black;
+    font-size: 3.2rem;
+    padding-left: 40px;
+}
+
+
+
+
+
+#footerid{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #222f3d;
+    height: 400px;
+    padding-top: 30px;
+}
+
+
+ul a{
+    display: block;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.int{
+    height: 7px;
+    font-weight: bold;
+}
+
+ul{
+    color: #ffffff;
+}
+
+#footerend{
+    background-color:#222f3d;
+    height: 60px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-top: 2px solid white;
+}
+
+
+
+#finallyend{
+    background-color: #131a22;
+    height: 80px;
+
+}
+
+#finallyend1{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    color: #dddddd;
+    height: 40px;
+}
+
+
+
+#finallyend2{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    color: #dddddd;
+    height: 40px;
+
+}
+
+.ida{
+    color: #dddddd;
+    text-decoration: none;
+    padding-left: 20px;
+}
+
+.ida:hover{
+    text-decoration: underline;
+}
+
+.mainbox6 *{
+    background-color: #222f3d;
+}
+
+.mainbox6{
+    padding-top: 20px;
+}
